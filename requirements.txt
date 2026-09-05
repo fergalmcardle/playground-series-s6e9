@@ -6,4 +6,4 @@ xgboost
 matplotlib
 seaborn
 jupyter
-kaggle
+kaggle>=2.0
